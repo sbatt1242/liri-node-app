@@ -1,0 +1,23 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "Liri twitter,spotify,omdb",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shane/liri-node-app.git"
+  },
+  "author": "shane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shane/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/shane/liri-node-app#readme",
+  "dependencies": {
+    "spotify": "^0.3.0",
+    "twitter": "^1.7.0"
+  }
+}
